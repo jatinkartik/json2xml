@@ -1,0 +1,20 @@
+{
+    "grandfather": {
+        "father": {
+            "child": [
+                {
+                    "@name": "Jose",
+                    "@bestFriend": "Maria"
+                },
+                {
+                    "@name": "Maria",
+                    "@bestFriend": "Jose"
+                }
+            ],
+            "student": {
+                "@favoriteBook": "The Gods Themselves",
+                "@age": "21"
+            }
+        }
+    }
+}
